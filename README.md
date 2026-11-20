@@ -12,7 +12,7 @@ Built and deployed a platform for Melton Truck Lines with freight quoting, shipm
 
 ### LLM Regression & Guardrail Testing Suite
 
-Built a Python evaluation harness with 30+ test cases for JSON schema compliance, latency, token cost, and hallucination guardrails. GitHub Actions publishes pass/fail reports and blocks builds when accuracy drops.
+**In development.** I'm designing a Python evaluation harness to compare changes to a Claude-powered support assistant. The plan covers answer accuracy, grounding, JSON schema compliance, latency, and token cost. GitHub Actions is planned to publish test results and gate releases on accuracy regressions.
 
 ### Easy Car Imports · Cross-border vehicle ordering
 
